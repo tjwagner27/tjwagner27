@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @tjwagner27
-- 👀 I’m interested in programming.
-- 🌱 I’m currently learning JavaScript, React with help from YouTube and freeCodeCamp.org.
+- 👋 Hi, I’m Tyler Wagner
+- 👀 I’m interested in Front End Development.
+- 🌱 I’m currently learning JavaScript and React with help from YouTube and freeCodeCamp.org.
 - 💞️ I’m looking to collaborate on beginner projects.
 - 📫 How to reach me ...
 
