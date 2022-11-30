@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Tyler Wagner
-- 👀 I’m interested in Front End Development.
-- 🌱 I’m currently learning JavaScript and React with help from YouTube and freeCodeCamp.org.
-- 💞️ I’m looking to collaborate on beginner projects.
-- 📫 How to reach me ...
+- 👀 I’m interested in Software Development.
+- 🌱 I’m currently learning and building projects using the MERN stack.
+- 💞️ I’m looking to collaborate on projects.
+- [Connect with me on LinkedIn](https://www.linkedin.com/in/tyler-wagner27)
 
 <!---
 tjwagner27/tjwagner27 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
